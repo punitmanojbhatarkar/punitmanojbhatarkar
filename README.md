@@ -1,9 +1,10 @@
 ## Hi there 👋
-🔭 I’m currently working on **AI & Data Science projects including OBE automation systems, traffic tripple riding and helmet detection, and crop disease detection.**
+I'm Punit, a Data Science Engineering student passionate about AI, Machine Learning, and Web Development.
 
-🌱 I’m currently learning **Machine Learning, Deep Learning, LangChain, and Full Stack Web Development.**
-
-👯 I’m looking to collaborate on **AI/ML, Web Development, and innovative real-world tech projects.**
+* 🌱 Currently learning Data Science, ML & Cyber Security
+* 💻 Building real-world projects using Python and AI
+* 🚀 Interested in Agentic AI and automation systems
+* 📫 Always open to learning and collaboration
 
 
 <!--
