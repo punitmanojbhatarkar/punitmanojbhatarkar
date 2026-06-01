@@ -1,4 +1,10 @@
 ## Hi there 👋
+🔭 I’m currently working on **AI & Data Science projects including OBE automation systems, weather prediction, and crop disease detection.**
+
+🌱 I’m currently learning **Machine Learning, Deep Learning, LangChain, and Full Stack Web Development.**
+
+👯 I’m looking to collaborate on **AI/ML, Web Development, and innovative real-world tech projects.**
+
 
 <!--
 **punitmanojbhatarkar/punitmanojbhatarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
