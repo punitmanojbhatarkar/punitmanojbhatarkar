@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on **AI & Data Science projects including OBE automation systems, weather prediction, and crop disease detection.**
+🔭 I’m currently working on **AI & Data Science projects including OBE automation systems, traffic tripple riding and helmet detection, and crop disease detection.**
 
 🌱 I’m currently learning **Machine Learning, Deep Learning, LangChain, and Full Stack Web Development.**
 
